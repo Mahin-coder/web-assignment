@@ -1,0 +1,185 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    background-image: linear-gradient(grey, black);
+}
+
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.2vw;
+}
+
+.click{
+    border-radius: 5px;
+    text-align: center;
+    color: floralwhite;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    background-image: linear-gradient(rgb(253, 120, 98), rgb(244, 96, 96));
+}
+
+
+.b{
+    font-size: 50px;
+}
+
+.text{
+    text-align: left;
+}
+
+.text-size{
+    font-size: 40px;
+    text-align: left;
+    color: rgb(54, 57, 88);
+}
+
+#orange-text{
+    color: tomato;
+    margin-top: -100px;
+    margin-bottom: 30px;
+}
+
+#violet-text{
+    color:rgb(54, 57, 88)
+}
+
+.box img{
+    width: 100%;
+}
+
+.box-header{
+    color: rgb(54, 57, 88);
+}
+
+.box-para{
+    color: grey;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 100px;
+    margin-right: 315px;
+}
+
+h2{
+    text-align: center;
+}
+
+.email{
+    text-align: right;
+}
+
+.first-part{
+    height: 650px;
+    padding: 20px;
+    padding-left:100px;
+}
+
+.second-part{
+    height: 650px;
+    padding: 20px;
+    padding-left:100px;
+}
+
+.third-part{
+    height: 650px;
+    background-color:rgb(248, 249, 252);
+    padding-top: 8%;
+    padding-left: 17%;
+}
+
+.fourth-part{
+    height: 450px;
+    padding: 100px 500px;
+    background-color: #dee6f3;
+}
+
+.fourth-part .container{
+    width: 100%;
+    height:225px;
+}
+
+.container img{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    display:inline-block;
+    position:relative;
+    }
+
+.container .button{
+    position: absolute;
+    bottom:4em;
+    right:4em;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(253, 120, 98), rgb(244, 96, 96));
+    color: white;
+    padding: 20px 30px;
+    width: 100px;
+    display:inline-block;
+}
+
+.container .text{
+    position: absolute;
+    bottom:-.5em;
+    right:7em;
+    color: white;
+}
+
+.box{
+    border-radius: 15px;
+    float: left;
+    width: 370px;
+    height: 374px;
+    background-color: white;
+    margin-right: 55px;
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+}
+
+.box2{
+    float: left;
+    width: 46%;
+    height: 100%;
+    margin-right: 50px;
+    padding: 8px;
+}
+
+.box3{
+    border: 2px solid black;
+    float: left;
+    width: 46%;
+    height: 100%;
+    margin-right: 50px;
+    padding: 8px;
+}
+
+.box2 img{
+    width: 80%;
+}
